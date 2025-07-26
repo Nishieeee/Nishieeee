@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nishieee</h1>
-<h3 align="center">I am passionate Typescript Developer who loves building **Fast**, **modern**, and **Scalable Fullstack Website**</h3>
+<h3 align="center">I am passionate Typescript Developer who loves building Fast, Modern, and Scalable Fullstack Website</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishieeee&label=Profile%20views&color=0e75b6&style=flat" alt="nishieeee" /> </p>
 
