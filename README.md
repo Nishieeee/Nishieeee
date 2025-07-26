@@ -1,12 +1,19 @@
 <h1 align="center">Hi 👋, I'm Nishieee</h1>
-<h3 align="center">An Fullstack Developer who makes modern and scalable websites</h3>
+<h3 align="center">I am passionate Typescript Developer who loves building **Fast**, **modern**, and **Scalable Fullstack Website**</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishieeee&label=Profile%20views&color=0e75b6&style=flat" alt="nishieeee" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishieeee" alt="nishieeee" /></a> </p>
 
+- 👨‍💻 All of my projects are available at [Nishieee.com](Nishieee.com)
+
+- 💬 Ask me about **react, next.js, node.js, and fullstack Development**
+
+- 📫 How to reach me **pagaroganjhonclein@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/jhon clein pagarogan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jhon clein pagarogan" height="30" width="40" /></a>
 <a href="https://fb.com/jhon clein pagarogan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jhon clein pagarogan" height="30" width="40" /></a>
 </p>
 
@@ -18,4 +25,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nishieeee&show_icons=true&locale=en" alt="nishieeee" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishieeee&" alt="nishieeee" /></p>
-
